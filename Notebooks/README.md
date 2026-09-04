@@ -11,4 +11,4 @@ The 'add(a, b)' function takes two values and returns their sum.
 The function may break when the two inputs are not compatible types. For example, trying to add a number and a string, such as add(5, "hello"), will cause an error.
 
 
-The `square(x)` function calculates the square of a number by calling the existing `multiply(x, x)` function. This means that the new function reuses the original multiplication function instead of performing the multiplication directly.
+The square(x) function calculates the square of a number by calling the existing `multiply(x, x)` function. This means that the new function reuses the original multiplication function instead of performing the multiplication directly.
